@@ -1,0 +1,23 @@
+.navbar h1 {
+	font-size: 2rem;
+}
+
+.navbar {
+	padding: 2rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	margin: 0 auto;
+	border-bottom: 1px solid #d1b0b3;
+}
+
+.navbar a {
+	margin-left: 1rem;
+	text-decoration: none;
+	padding: 0.25rem;
+	color: #2d0060;
+}
+.navbar a:hover {
+	color: #d1b0b3;
+}
